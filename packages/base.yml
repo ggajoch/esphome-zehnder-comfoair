@@ -1,7 +1,7 @@
 substitutions:
-  friendly_name: Zehnder ComfoAir Q
-  device_name: zehnder-comfoair-q
-  device_description: Zehnder ComfoAir Q HRV (heat recovery ventilation) unit
+  friendly_name: q350
+  device_name: q350
+  device_description: rekuperator
   filter_time: 5s
   filter_send_every: "1"
   filter_window_size: "3"

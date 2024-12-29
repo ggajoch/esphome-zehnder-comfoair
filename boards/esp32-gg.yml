@@ -1,0 +1,7 @@
+# Olimex ESP32-EVB
+substitutions:
+  can_tx_pin: GPIO11
+  can_rx_pin: GPIO9
+  board: lolin_s2_mini
+  variant: esp32s2
+  flash_size: 4MB
